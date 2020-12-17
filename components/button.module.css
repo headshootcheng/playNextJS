@@ -1,0 +1,10 @@
+.buttonBg{
+    background-color: yellow;
+    border-radius: 5px;
+    border-width:2px;
+    border-color:black;
+    align-items: center;
+    justify-content: center;
+    height:50px;
+    width:100px;
+}
